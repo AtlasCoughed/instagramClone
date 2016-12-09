@@ -20,7 +20,7 @@ Search Tags
 - Sear
 
 **Installation**
-
+Special Instagram clone necessary for free API calls. Please email me for details.
 
 **Technologies**
 React.js
