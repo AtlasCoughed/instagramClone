@@ -19,9 +19,6 @@ Search Tags
 - Default: Search with most recent
 - Sear
 
-**Installation**
-Special Instagram clone necessary for free API calls. Please email me for details.
-
 **Technologies**
 React.js
 Node/Express
@@ -31,3 +28,6 @@ Instagram API
 "Apps in sandbox are restricted to 10 users
 Data is restricted to the 10 users and the 20 most recent media from each of those users
 Reduced API rate limits"
+
+**Installation** (1/7/2017)
+Special Instagram clone necessary for free API calls. Please email me for details.
